@@ -3,7 +3,8 @@
 
 ![exelsior 클래스 다이어 그램](https://user-images.githubusercontent.com/76934018/194711732-ed802bf2-f6d0-45ef-9131-ce78a2ea2923.png) 
  
-[주요 내용] 
+[주요 내용]  
+
 일에 지친 주인공이 꿈에서 탈출하면서 겪는 좌충우돌 탈출기. 
 
 [주요 기능]
